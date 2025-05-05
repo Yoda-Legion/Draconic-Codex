@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="draconiccodex"
+version="0.4"
+displayName="Draconic Codex"
+description='Enhances enchantments to +2 after an Ancient Tome was used.'
+authors="ChatGPT, Directed by Yoda Legion"
